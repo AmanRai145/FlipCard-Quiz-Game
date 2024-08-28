@@ -65,7 +65,7 @@ If you'd like to contribute to the **Flipcard Game**, follow these steps:
    ```
    git push origin feature/your-feature-name
    ```
-5. **Create a Pull Request.**
+
 
 
 
