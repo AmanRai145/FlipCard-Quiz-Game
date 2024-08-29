@@ -72,7 +72,7 @@ const FlipcardGame = () => {
               </button>
             ))}
           </div>
-          {showFeedback && <div>{feedback}</div>}
+          {showFeedback && <div className=' bg-red-700 rounded border mx-[190px] mt-9 px-[50px]'>{feedback}</div>}
         </div>
         
       )}
