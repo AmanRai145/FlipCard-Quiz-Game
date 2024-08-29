@@ -65,9 +65,9 @@ const FlipcardGame = () => {
       {questions.length > 0 && (
        <div className='h-screen '>
           <p className='border border-red-600 ml-[10px] bg-green-500 mt-9 font-semibold px-[70px] rounded'>{currentQuestion.question}</p>
-          <div>
+          <div className='flex items-center justify-center '>
             {currentQuestion.options.map((option, index) => (
-              <button className=' border border-red-600 ml-[10px]' key={index} onClick={() => handleAnswerClick(option)}>
+                <button className=' border border-red-600 ml-[10px] bg-yellow-500 rounded p-1.5 mt-7  ' key={index} onClick={() => handleAnswerClick(option)}>
                 {option}
               </button>
             ))}
