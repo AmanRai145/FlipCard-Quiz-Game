@@ -59,7 +59,8 @@ const FlipcardGame = () => {
 
   return (
     <>
-      <div >FlipcardGame</div>
+      <div className='flex items-center justify-center bg-red-600 border mx-[280px] py-2 rounded font-bold mt-9' >FlipcardGame</div>
+      
       
       {questions.length > 0 && (
         <div   style={{backgroundColor: 'red'}}>
