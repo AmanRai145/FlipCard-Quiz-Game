@@ -63,7 +63,7 @@ const FlipcardGame = () => {
       
       
       {questions.length > 0 && (
-        <div   style={{backgroundColor: 'red'}}>
+       <div className='h-screen '>
           <p className='border border-red-600 ml-[10px] bg-green-500 mt-9 font-semibold px-[70px] rounded'>{currentQuestion.question}</p>
           <div>
             {currentQuestion.options.map((option, index) => (
