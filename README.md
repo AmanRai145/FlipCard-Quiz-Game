@@ -50,7 +50,6 @@ The **Flipcard Game** is a fun memory challenge where players need to match pair
 
 
 
-If you'd like to contribute to the **Flipcard Game**, follow these steps:
 
 1. **Fork this Repository.**
 2. **Create a Branch:**
