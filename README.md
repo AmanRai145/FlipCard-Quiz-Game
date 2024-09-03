@@ -52,10 +52,7 @@ The **Flipcard Game** is a fun memory challenge where players need to match pair
 
 
 
-2. **Create a Branch:**
-   ```
-   git checkout -b feature/your-feature-name
-   ```
+
 3. **Make Changes and Commit:**
    ```
    git commit -m 'Add your changes'
