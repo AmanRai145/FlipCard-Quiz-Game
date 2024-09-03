@@ -53,17 +53,6 @@ The **Flipcard Game** is a fun memory challenge where players need to match pair
 
 
 
-3. **Make Changes and Commit:**
-   ```
-   git commit -m 'Add your changes'
-   ```
-4. **Push to the Original Branch:**
-   ```
-   git push origin feature/your-feature-name
-   ```
-
-
-
 
 
 
