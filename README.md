@@ -48,7 +48,7 @@ The **Flipcard Game** is a fun memory challenge where players need to match pair
      yarn lint
      ```
 
-## Contributing
+
 
 If you'd like to contribute to the **Flipcard Game**, follow these steps:
 
